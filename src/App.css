@@ -1,6 +1,0 @@
-.App {
-  width: 100vw; height: 100vh; text-align: center; font-size: 25vw; font-family: serif;
-  transition: background-color .4 ease-out;
-}
-
-.Key { mix-blend-mode: soft-light; color: white; }
