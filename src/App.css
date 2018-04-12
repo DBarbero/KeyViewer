@@ -1,7 +1,5 @@
-body { overflow: hidden; }
-
 .App {
-  width: 100vw; height: 100vh; text-align: center; font-size: 23vw; font-family: serif;
+  width: 100vw; height: 100vh; text-align: center; font-size: 23vw; font-family: serif; overflow: hidden;
   transition: background-color .4 ease-out;
 }
 
